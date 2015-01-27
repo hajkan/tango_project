@@ -1,4 +1,9 @@
+body{
+	color:#363636;
+	font-family:"Verdana", "Arial";
+	margin-left:30px;
+}
+
 h1{
 	font-size: 32px;
-	color: blue;
 }
